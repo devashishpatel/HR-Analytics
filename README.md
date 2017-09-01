@@ -1,6 +1,6 @@
 # HR-Analytics
 
-##Background
+## Background:
 Client service is all about the quality of the people involved in delivering business. However, one of the major challenges for any company revolved around managing a quality workforce. Organizations spend tremendous amount of time and energy to create a homogenous environment where people thrive and succeed. Despite all the efforts to maintain an environment that is conducive, people leave organizations in search of better opportunities. In order to fill the vacuum, HR is bound to recruit new talent, thus forming a vicious circle in between attrition and recruitment; and in order to mitigate this, organizations keep trying to bridge the gap by strengthening their recruitment processes and creating a culture of inclusivity.
 
 ## Problem of Renege:
