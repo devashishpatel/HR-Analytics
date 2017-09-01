@@ -27,35 +27,52 @@ The Code and analysis of the Model are available in the [R-Notebook](https://git
 
 ## Data-set:
 The Data-set comprised of around 9000 observations and 16 Variables.
+
 1 Candidate reference number
   Unique number to identify the candidate
+  
 2 DOJ extended
   Binary variable identifying whether candidate asked for date of joining extension (Yes/No)
+  
 3 Duration to accept the offer
   Number of days taken by the candidate to accept the offer (continuous variable)
+  
 4 Notice period
   Notice period to be served in the parting company before candidate can join this company (continuous variable)
+  
 5 Offered band 
   Band offered to the candidate based on experience and performance in interview rounds (categorical variable labelled C0/C1/C2/C3/C4/C5/C6)
+  
 6 Percentage hike (CTC) expected
   Percentage hike expected by the candidate (continuous variable)
+  
 7 Percentage hike offered (CTC)
   Percentage hike offered by the company (continuous variable)
+  
 8 Joining bonus
   Binary variable indicating if joining bonus was given or not (Yes/No)
+  
 9 Gender
   Gender of the candidate (Male/Female)
+  
 10 Candidate source
   Source from which resume of the candidate was obtained (categorical variables with categories: Employee referral/Agency/Direct)
+  
 11 REX (in years)
   Relevant years of experience of the candidate for the position offered (continuous variable)
+  
 12 LOB
   Line of business for which offer was rolled out (categorical variable)
+  
 13 DOB
   Date of birth of the candidate
+  
 14 Joining location
   Company location for which offer was rolled out for candidate to join (categorical variable)
+  
 15 Candidate relocation status
   Binary variable indicating whether candidate has to relocate from one city to another city for joining (Yes/No)
+  
 16 HR status
   Final joining status of candidate (Joined/Not-Joined)
+  
